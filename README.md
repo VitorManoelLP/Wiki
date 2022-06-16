@@ -3,7 +3,9 @@ Basic Path for Development
 
 ## GIT CONFIGURE 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48">
+
 ### First step to configure git ->
+
 ```
 git config --global user.name "Nome Completo"
 git config --global user.email "seu.email@gmail.com"
