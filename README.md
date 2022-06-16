@@ -22,4 +22,4 @@ cat ~/.ssh/id_rsa.pub
 
 **Copy the content of this filename id_rsa.pub and paste in the configuration ssh key [screen of Github](https://github.com/settings/ssh/new).**
 
-###### If your linux terminal don't show the informations about your current branch, take a look in this links of possible fixes.
+###### If your linux terminal don't show the informations about your current branch, take a look in this links of [possible fixes](https://askubuntu.com/questions/730754/how-do-i-show-the-git-branch-with-colours-in-bash-prompt). 
