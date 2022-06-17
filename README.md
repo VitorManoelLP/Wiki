@@ -26,7 +26,7 @@ cat ~/.ssh/id_rsa.pub
 
 ## Swap Memory for Linux: 
 
-- Entre no [link](https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-20-04/) e siga as instruções para configurar a memória swap do seu linux.
+- Take this [link](https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-20-04/) and follow step for configure memory swap.
 
-> Se a mensagem de "Área de texto ocupada" aparecer, crie outro arquivo swap para partição.
+> If the message "Área de texto ocupada" showed, build other file swap for partition.
 
