@@ -22,11 +22,11 @@ cat ~/.ssh/id_rsa.pub
 
 **Copy the content of this filename id_rsa.pub and paste in the configuration ssh key [screen of Github](https://github.com/settings/ssh/new).**
 
-###### If your linux terminal don't show the informations about your current branch, take a look in this links of [possible fixes](https://askubuntu.com/questions/730754/how-do-i-show-the-git-branch-with-colours-in-bash-prompt). 
+###### If your linux terminal doesn't show the informations about your current branch, take a look in this link of [possible fixes](https://askubuntu.com/questions/730754/how-do-i-show-the-git-branch-with-colours-in-bash-prompt). 
 
 ## Swap Memory for Linux: 
 
-- Take this [link](https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-20-04/) and follow step for configure memory swap.
+- Take this [link](https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-20-04/) and follow the steps to configure memory swap.
 
-> If the message "Área de texto ocupada" showed, build other file swap for partition.
+> If the message "Área de texto ocupada" pops up, build another file swap for partition.
 
