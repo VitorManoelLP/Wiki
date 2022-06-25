@@ -33,3 +33,9 @@ cat ~/.ssh/id_rsa.pub
 ## Docker
 
 - Take this [link](https://www.vivaolinux.com.br/dica/Instalacao-do-Docker-no-Linux-Mint-20) and follow the steps to install docker.
+
+> If the message "Got permission denied while trying to connect to the Docker daemon socket at" pops up, execute this command on the terminal 
+
+```
+sudo chmod 666 /var/run/docker.sock
+```
