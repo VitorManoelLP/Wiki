@@ -30,3 +30,6 @@ cat ~/.ssh/id_rsa.pub
 
 > If the message "Área de texto ocupada" pops up, build another file swap for partition.
 
+## Docker
+
+- Take this [link](https://www.vivaolinux.com.br/dica/Instalacao-do-Docker-no-Linux-Mint-20) and follow the steps to install docker.
