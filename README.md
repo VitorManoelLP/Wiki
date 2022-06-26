@@ -39,3 +39,16 @@ cat ~/.ssh/id_rsa.pub
 ```
 sudo chmod 666 /var/run/docker.sock
 ```
+- For restart your container, follow the steps:
+ 
+execute this: 
+
+```
+$ docker rm -f $(docker ps -a -q)
+```
+
+restart docker
+
+```
+$ sudo service docker restart
+```
